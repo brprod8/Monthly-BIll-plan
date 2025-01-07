@@ -102,4 +102,3 @@ This project is a Python-based portfolio management tool with a graphical user i
 - **License Type**: MIT License
 - **License Details**: Full details of the MIT License can be found above.
 
-This is a widely accepted open-source license that is flexible, allowing users to use, modify, and distribute the software while protecting the author’s rights.
