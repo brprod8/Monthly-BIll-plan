@@ -100,5 +100,3 @@ This project is a Python-based portfolio management tool with a graphical user i
 
 - **Author**: Robert Smith
 - **License Type**: MIT License
-- **License Details**: Full details of the MIT License can be found above.
-
